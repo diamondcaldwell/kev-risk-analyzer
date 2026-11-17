@@ -25,8 +25,8 @@ Python, pandas, matplotlib
 | Apple     | 96          |
 | Adobe     | 83          |
 | Google    | 77          |
+<img width="359" height="264" alt="Screenshot 2026-11-17 175323" src="https://github.com/user-attachments/assets/4794a363-60d4-4749-979a-0c3f74c3fc43" />
 
-![Top 5 vendors](top5_vendors.png)
 
 Microsoft has about 3.8 times as many KEV entries as the next vendor, Cisco.
 
